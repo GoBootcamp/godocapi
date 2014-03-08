@@ -5,9 +5,9 @@
 * Building a web API
 * Testing a web API
 * JSON encoding/decoding
-* Explore godoc
-* Extend existing packages or
-* Shell out
+* Exploring godoc
+* Extending existing packages or
+* Shelling out
 
 ## Assignment
 
